@@ -1,4 +1,5 @@
-works_with_R("3.2.2", data.table="1.9.6")
+works_with_R("3.2.2", 
+             data.table="1.9.6")
 
 prices <- fread("products/hemp_seeds.csv")
 
@@ -19,4 +20,4 @@ prices[, kg := kilograms.per.unit[unit] * quantity]
 prices[, CAD.per.kg := CAD/kg]
 print(prices[order(CAD.per.kg),.(store,manufacturer,kg,CAD.per.kg)])
 
-
+unique(prices$store)
