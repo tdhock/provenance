@@ -3,6 +3,14 @@
 Price/origin checks on olive oil around Villeray. 10$/1L refillable
 bottle?
 
+Hemp seeds:
+- Call back merci and ask what "Protection" means, and say that we
+  won't buy any more until we know where they come from.
+- Still waiting for email response from Manitoba Harvest.
+- Call back Jacques the boss at Aliments Trigone.
+- Call Lufa and find out if they know where their hemp seeds come from
+  (Matt at Yupik said either Manitoba or China).
+
 ** 17 Nov 2015
 *** Database ideas
 Table of pricechecks: date, organic, store, manufacturer, CAD,
@@ -44,6 +52,10 @@ Canada
 Manitoba Harvest
 69 eagle drive winnipeg,
 manitoba R2R 1V4
+
+Aliments Trigone
+93 chemin de l'Aqueduc,
+Saint-François-de-la-Rivière-du-Sud, QC G0R-3A0.
 
 *** Called Yupik +1-514-787-1600
 
