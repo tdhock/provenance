@@ -17,6 +17,6 @@ kilograms.per.unit <- c(
 
 prices[, kg := kilograms.per.unit[unit] * quantity]
 prices[, CAD.per.kg := CAD/kg]
-print(prices[,.(store,manufacturer,kg,CAD.per.kg)])
+print(prices[order(CAD.per.kg),.(store,manufacturer,kg,CAD.per.kg)])
 
 
