@@ -3,7 +3,49 @@
 Price/origin checks on olive oil around Villeray. 10$/1L refillable
 bottle?
 
-*** 17 Nov 2015 Called Yupik +1-514-787-1600
+** 17 Nov 2015
+*** Database ideas
+Table of pricechecks: date, organic, store, manufacturer, CAD,
+quantity, unit.
+
+Table of conversations: date, phone number, name, product, supplier.
+
+Table of places: need to be able to distinguish between observations
+and facts that have been checked. For example we know that the
+Mondiana Belanger store has hemp seeds from the Manitoba Harvest
+factory, but we do not know how many middlemen there were between the
+factory and the store. Visualize unchecked connections as a line
+segment with a question mark.
+
+*** Addresses 
+
+Mondiana Belanger
+1120 Rue Bélanger, Montréal, QC H2S 1H4
+
+[[http://www.fermemichaca.com/pages/contact.html][Ferme Michaca]] -> Michaca Jean-Talon
+3026, Smaill
+Elgin, Qc
+J0S 2E0
+
+[[http://alimentsmerci.com/points_de_vente.php][Merci Entrepôt]] -> Merci Jean-Talon
+12020, boul. Albert-Hudon
+Montréal-Nord, QC
+H1G 3K7 
+
+[[http://lufa.com/en/contact.html][Lufa]] 
+201-1400 Rue Antonio-Barbeau 
+Montreal, QC H4N 1H5
+
+[[http://www.yupik.ca/shopcustcontact.asp][Yupik]]
+1385 Louvain Ouest
+Montreal QC H4N 1G6
+Canada
+
+Manitoba Harvest
+69 eagle drive winnipeg,
+manitoba R2R 1V4
+
+*** Called Yupik +1-514-787-1600
 
 Receptionist transferred me to 
 on n'a pas ce type information.
@@ -12,7 +54,7 @@ manitoba ou? chinois no idea.
 Matt Yupik another office
 (514)381-9790 Totsimpex quality control dept.
 
-*** 17 Nov 2015 Called Ferme Michaca (450) 264-4369
+*** Called Ferme Michaca (450) 264-4369
 
 Elle ne sait pas de quel ferme les graines viennent.
 Elle fait affaires avec une grossiste,
@@ -20,7 +62,7 @@ et elle ne peut pas me donner le nom/addresse.
 Pourquoi? C'est "personnel" 
 il faut faire des recherches sur internet.
 
-*** 17 Nov 2015 Called aliments merci about hemp seeds
+*** Called aliments merci about hemp seeds
 
 asked for nellie. are the prices correct? 177$/6kg, 295$/34kg? no:
 177$/12.5lb, 295$/25lb
@@ -30,7 +72,22 @@ Le nom de fournisseur est confidentiel. Pourquoi? "Protection."
 I gave my email tdhock5@gmail.com and she said she would ask 
 her boss if she can tell me the supplier list.
 
-*** 17 Nov 2015 Manitoba Harvest script
+#+BEGIN_SRC text
+Hello,
+
+After discussion with my boss, the company doesn’t provide any
+supplier information.
+
+However, if you need nutritional information, technical information
+about a specific product please send me an email or call me at
+514-955-7295 ext 228.
+
+Kindly,
+
+Nelly
+#+END_SRC
+
+*** Manitoba Harvest script
 
 Filled in Manitoba Harvest [[http://manitobaharvest.com/contact.html][contact form]].
 
@@ -53,7 +110,7 @@ share this information with the consumer?
 
 Thanks in advance and have a nice day!
 
-*** 17 Nov 2015 Generic telephone scripts
+*** Generic telephone scripts
 
 *Introduction to the research project:* Hi, how are you? My name is
 Toby Dylan Hocking, and I am a researcher at McGill university in
@@ -89,14 +146,15 @@ ferme, ou une autre intérmediare ?
 m'expliquer pourquoi vous ne partager pas ces informations avec le
 consommateur ?
 
-*** 17 Nov 2015 Olive oil.
+*** Olive oil.
 
 Olive oil? Costco Terra Delyssa Organic Extra Virgin Olive Oil,
 12.99/2L (usually 14.99/2L).
 
 [[http://www.terradelyssa.com/product/get/tplParam/3/language/en][Terra Delyssa web site]] price US$14.99/1L (irrelevant)
 
-*** 16 Nov 2015 Hemp seeds price checks
+** 16 Nov 2015
+*** Hemp seeds price checks
 
 Hemp seeds at Mondiana Belanger:
 - Manitoba Harvest from 2.49/56g to 52.99/2.27kg, 
@@ -106,7 +164,7 @@ TODO call Manitoba Harvest (800) 665-4367, 69 eagle drive winnipeg,
 manitoba R2R 1V4. Their [[https://www.youtube.com/watch?v=8lBTILYe4Rw][video]] says that they get the hemp seeds from
 over 125 farmers.
 
-*** 16 Nov 2015 Hemp seeds origin checks
+*** Hemp seeds origin checks
 
 Called Aliments Trigone (877) 259-7491. Talked to Cathy LEMONDE about
 where their hemp seeds come from. She said they come from either the
