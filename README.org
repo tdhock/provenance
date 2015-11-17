@@ -1,21 +1,75 @@
 *** TODOs
 
-Olive oil?
+Price/origin checks on olive oil around Villeray. 10$/1L refillable
+bottle?
 
-*** 16 Nov 2016
+*** 17 Nov 2015 Telephone scripts
+
+*Introduction to the research project:* Hi, how are you? My name is
+Toby Dylan Hocking, and I am a researcher at McGill university in
+Montreal. I am researching the growers and distributers of food
+products, to provide information to consumers. My goal is to determine
+the entire supply chain starting and the farm and ending in the
+consumer's dinner plate.
+
+*From me to you:* I bought hemp seeds at Jean-Talon Market and I saw
+your phone number on the packaging. Can you please tell me from who
+you bought the hemp seeds?
+
+*Positive response, details:*  
+
+*Introduction au projet de recherche:* Bonjour, ça va bien ? Je
+m'appelle Toby Dylan Hocking. Je suis chercheur à l'université McGill
+à Montréal. Je fais une recherche sur la provenance des aliments pour
+fournir des informations aux consommateurs. Ce qui m'intéresse est le
+nombre d'intérmediares entre la ferme et l'assiette du consommateur.
+
+*De moi à vous*: J'ai acheté des graines de chanvre au Marché
+Jean-Talon, et j'ai vu votre numéro de téléphone sur l'emballage. S'il
+vous plaît, est-ce que vous pourriez me dire de qui vous achetez vos
+graines de chanvre ?
+
+*Réponse positif, précisions:* Est-ce que votre fournisseur est la
+ferme, ou une autre intérmediare ?
+
+*Réponse négatif, pourquoi:* D'accord, est-ce que vous pourriez
+m'expliquer pourquoi vous ne partager pas ces informations avec le
+consommateur ?
+
+*** 17 Nov 2015 Olive oil.
+
+Olive oil? Costco Terra Delyssa Organic Extra Virgin Olive Oil,
+12.99/2L (usually 14.99/2L).
+
+[[http://www.terradelyssa.com/product/get/tplParam/3/language/en][Terra Delyssa web site]] price 14.99/1L.
+
+*** 16 Nov 2015 Hemp seeds price checks
+
+Hemp seeds at Mondiana Belanger:
+- Manitoba Harvest from 2.49/56g to 52.99/2.27kg, 
+- Aliments Trigone from 3.89/100g to 14.49/454g.
+
+TODO call Manitoba Harvest (800) 665-4367, Winnipeg Manitoba
+R2R-1V4. Their [[https://www.youtube.com/watch?v=8lBTILYe4Rw][video]] says that they get the hemp seeds from over 125
+farmers.
+
+*** 16 Nov 2015 Hemp seeds origin checks
 
 Called Aliments Trigone (877) 259-7491. Talked to Cathy LEMONDE about
 where their hemp seeds come from. She said they come from either the
 Canadian West, or from Quebec. When I asked her if she could tell me
 the names of the farms that she buys from, she told me that
 information is "confidential." She told me I could call back and ask
-her boss Jacques.
+her boss Jacques. 93, chemin de l'Aqueduc,
+Saint-François-de-la-Rivière-du-Sud, AC Canada, G0R-3A0. (418)
+259-7414 bio@alimentstrigone
 
 Called Ferme Michaca (450) 264-4369 but nobody picked up. Their
 package says 7.55$/250g.
 
 Called Aliments Merci (514) 955-7295 and I left a message on an
-answering machine. Waiting for a call back.
+answering machine. Left a message and Nellie 955-7295 called back with
+prices: 177/6kg, 295$/34kg.
 
 Lufa's [[https://montreal.lufa.com/en/superMarket/product/slug/3603-graines-de-chanvre-bios/id/3603][hemp seeds web page]] says that sell them for 4$/100g and they
 come from Yupik. Their [[http://www.yupik.ca/products/10019-ORGANIC-HULLED-HEMP-SEEDS/][hemp seeds web page]] says they sell them for
