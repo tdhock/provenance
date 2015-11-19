@@ -1,11 +1,9 @@
 date,organic,store,manufacturer,CAD,quantity,unit
 2015-11-16,NA,Mondiana Belanger,Manitoba Harvest,2.49,56,g
 2015-11-16,NA,Mondiana Belanger,Manitoba Harvest,52.99,2.27,kg
-2015-11-16,NA,Mondiana Belanger,Aliments Trigone,14.49,454,g
-2015-11-16,NA,Mondiana Belanger,Aliments Trigone,3.89,100,g
-2015-11-08,no mention on label,Michaca Jean-Talon,Ferme Michaca,7.55,250,g
-NA,NA,Merci Jean-Talon,Merci Entrepôt,NA,NA,NA
-NA,NA,Merci Jean-Talon,Aliments Trigone,NA,NA,NA
+2015-11-16,yes,Mondiana Belanger,Aliments Trigone,14.49,454,g
+2015-11-16,yes,Mondiana Belanger,Aliments Trigone,3.89,100,g
+2015-11-08,no,Michaca Jean-Talon,Ferme Michaca,7.55,250,g
 2015-11-17,yes,Merci Entrepôt,Merci Entrepôt,177,6,kg
 2015-11-17,yes,Merci Entrepôt,Merci Entrepôt,295,34,kg
 2015-11-16,yes,Lufa web,Yupik,4,100,g
@@ -14,3 +12,7 @@ NA,NA,Merci Jean-Talon,Aliments Trigone,NA,NA,NA
 2015-11-17,no,Manitoba Harvest web,Manitoba Harvest,50,2.27,kg
 2015-11-17,yes,Manitoba Harvest web,Manitoba Harvest,9.99,200,g
 2015-11-17,no,Manitoba Harvest web,Manitoba Harvest,2.99,56,g
+2015-11-18,yes,Merci Jean-Talon,Merci Entrepôt,4.83,142,g
+2015-11-18,yes,Merci Jean-Talon,Merci Entrepôt,9.30,282,g
+2015-11-18,yes,Merci Jean-Talon,Aliments Trigone,16.49,454,g
+2015-11-18,yes,Merci Jean-Talon,Aliments Trigone,4.29,100,g

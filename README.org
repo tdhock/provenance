@@ -10,6 +10,47 @@ Hemp seeds:
 - Call back Jacques the boss at Aliments Trigone.
 - Call Lufa and find out if they know where their hemp seeds come from
   (Matt at Yupik said either Manitoba or China).
+- Check who certified these products organic, and ask the
+  certification agency if they know where the hemp seeds were grown.
+- Start by looking for hemp farms near us, and ask those farmers who
+  they sell to.
+
+Eggs:
+- Ask Le capitaine au marche Jean-Talon.
+- Price/origin checks in local epiceries.
+
+Maple syrup:
+- Call Eloi Beauregard (No Permis 3044) (450)797-2300 and ask if he
+  has the maple trees or if he just transforms the sap into syrup.
+- Make a map comparing Eloi and Crepuscule.
+
+** 18 Nov 2015
+
+*** Eggs
+
+Crepuscule prices listed on their [[https://www.fermelecrepuscule.com/fr/produits-biologique/oeufs.html][web page]]. Interestingly, they
+explain what the sizes mean:
+
+| size (fr)  | size (en) | Crepuscule (g) | Canada (g) | USA (oz) |
+|------------+-----------+----------------+------------+----------|
+| jumbo      | Jumbo     |            >69 | >=70       |     >2.5 |
+| extra gros | XL        |                | >=63       |    >2.25 |
+| gros       | L         |          56-63 | >=56       |       >2 |
+| moyen      | M         |          49-55 | >=49       |    >1.75 |
+| petit      | S         |          42-49 | >=42       |     >1.5 |
+|            | Peewee    |                | <42        |    >1.25 |
+
+Weight (g) comes from the Crepuscule web page. Extra gros has a
+question mark (?) since it was not listed on the web page. From
+[[https://en.wikipedia.org/wiki/Chicken_egg_sizes][wikipedia:Chicken_egg_sizes]] I see that the grades are defined by the
+USDA, in oz. Also Canada defines egg sizes [[http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._284/page-17.html][on this web page]].
+
+*** Maple syrup
+
+Crepuscule prices listed on their [[https://www.fermelecrepuscule.com/fr/produits-biologique/erable.html][web page]].
+
+Interesting [[http://fpaq.ca/wp-content/uploads/2015/02/InfoSirop_Juin215_Web1.pdf][InfoSirop]] 20-page PDF, including prices "en vrac." Prices:
+Clair more expensive than ambree/fonce.
 
 ** 17 Nov 2015
 *** Database ideas
