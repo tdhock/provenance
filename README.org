@@ -24,6 +24,20 @@ Maple syrup:
   has the maple trees or if he just transforms the sap into syrup.
 - Make a map comparing Eloi and Crepuscule.
 
+** 11 Dec 2015
+
+[[https://www.importgenius.com/how-it-works][ImportGenius]] has a paid-access database of all products imported and
+exported in the US. Their data source is apparently public record, but
+how to obtain?
+
+[[http://www.achetonsquebecois.com/][AchetonsQuebecois]] has some public web pages that list vendors of good
+Made In Quebec.
+
+This project is trying to establish [[https://en.wikipedia.org/wiki/Chain_of_custody][Chain of custody]].
+
+Quebec Vrai has [[http://www.quebecvrai.org/membres?statut=0&entreprise=puscule][3 records]] for Ferme Le Crepuscule. For example [[http://www.quebecvrai.org/upload/contenu-fichiers/pa96001-01-cert-20150513-20150513115546.pdf][maple
+syrup]].
+
 ** 18 Nov 2015
 
 *** Eggs
@@ -100,11 +114,11 @@ Saint-François-de-la-Rivière-du-Sud, QC G0R-3A0.
 
 *** Called Yupik +1-514-787-1600
 
-Receptionist transferred me to 
-on n'a pas ce type information.
+Receptionist transferred me to Matt, who said
+"on n'a pas ce type information."
 canadian + chinois. ne sais pas quel produit est dispo chez lufa.
 manitoba ou? chinois no idea.
-Matt Yupik another office
+Call another Yupik office
 (514)381-9790 Totsimpex quality control dept.
 
 *** Called Ferme Michaca (450) 264-4369
