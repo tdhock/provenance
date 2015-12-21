@@ -1,0 +1,39 @@
+** News
+
+- 17 Nov 2015, tdhock: asked for nellie. are the prices correct?
+  177$/6kg, 295$/34kg? no:
+177$/12.5lb, 295$/25lb
+Bio? Yes.
+
+Le nom de fournisseur est confidentiel. Pourquoi? "Protection."
+I gave my email tdhock5@gmail.com and she said she would ask 
+her boss if she can tell me the supplier list.
+
+#+BEGIN_SRC text
+Hello,
+
+After discussion with my boss, the company doesn’t provide any
+supplier information.
+
+However, if you need nutritional information, technical information
+about a specific product please send me an email or call me at
+514-955-7295 ext 228.
+
+Kindly,
+
+Nelly
+#+END_SRC
+
+** Data
+
+- Contact :: Nellie (514) 955-7295 ext 228
+- PlaceType :: manufacture
+- address :: 12020 boul. Albert-Hudon, Montréal, QC H1G-3K7, Canada
+
+** Public prices
+
+| product    | organic | manufacturer   | comes from | CAD | quantity | unit | date |
+|------------+---------+----------------+------------+-----+----------+------+------|
+| hemp seeds | yes     | Aliments Merci | X          |     |          |      |      |
+
+X = Nellie's boss said that the company does not provide any supplier information.

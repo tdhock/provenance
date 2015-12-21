@@ -1,0 +1,30 @@
+** News
+
+- 17 Nov 2015, tdhock: Filled in Manitoba Harvest [[http://manitobaharvest.com/contact.html][contact form]].
+- 16 Nov 2015, tdhock: TODO call Manitoba Harvest (800) 665-4367, 69
+  eagle drive winnipeg, manitoba R2R 1V4. Their [[https://www.youtube.com/watch?v=8lBTILYe4Rw][video]] says that they
+  get the hemp seeds from over 125 farmers.
+
+Hi, how are you? My name is Toby Dylan Hocking, and I am a researcher
+at McGill university in Montreal. I am researching the growers and
+distributers of food products, to provide information to consumers. My
+goal is to determine the entire supply chain starting at the farm and
+ending in the consumer's dinner plate.
+
+I bought your hemp seeds at Jean-Talon Market in Montreal and then I
+looked for information on your web site. Your YouTube video claimed
+that you buy hemp seeds from over 125 farmers. Can you please send me
+the addresses of these farmers? I would like to make a map that shows
+where exactly the farms are located.
+
+If you are unable to provide addresses for all of your farmers, then
+could you at least provide addresses for two or three of your farmers?
+If you can't do that, can you please explain why you do not wish to
+share this information with the consumer?
+
+Thanks in advance and have a nice day!
+** Data
+
+- PlaceType :: manufacture
+- Address :: 69 eagle drive, winnipeg, manitoba R2R-1V4, Canada
+

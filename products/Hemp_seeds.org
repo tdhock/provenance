@@ -1,0 +1,12 @@
+Home page for hemp seeds. 
+
+** Related products
+
+Some other products that are simliar but should not be confused with
+hemp seeds.
+
+** Translations
+
+- en :: Hemp seeds
+- fr :: Graines de chanvre
+

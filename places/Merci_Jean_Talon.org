@@ -1,0 +1,13 @@
+- 16 Nov 2015, tdhock: Called Aliments Merci (514) 955-7295 and I left
+  a message on an answering machine. Left a message and Nellie
+  955-7295 called back with prices for hemp seeds: 177/6kg, 295$/34kg.
+
+** Data
+
+** Public prices
+
+| product    | organic | manufacturer     | comes from     | CAD | quantity | unit | date |
+|------------+---------+------------------+----------------+-----+----------+------+------|
+| hemp seeds | yes     | Aliments Merci   | Merci Entrepot |     |          |      |      |
+| hemp seeds | yes     | Aliments Trigone | Merci Entrepot |     |          |      |      |
+

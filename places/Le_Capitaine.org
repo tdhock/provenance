@@ -1,0 +1,8 @@
+** Prices
+
+| date        | product | bio | manufacturer | quantity | unit  |  CAD |
+|-------------+---------+-----+--------------+----------+-------+------|
+| 14 Dec 2015 | [[../products/Eggs.org][Eggs]]    | no  | ?            |       12 | jumbo | 3.50 |
+| 14 Dec 2015 | [[../products/Eggs.org][Eggs]]    | no  | ?            |       12 | XL    | 3.25 |
+| 14 Dec 2015 | [[../products/Eggs.org][Eggs]]    | no  | ?            |       12 | L     | 3.00 |
+

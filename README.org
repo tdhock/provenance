@@ -16,13 +16,21 @@ Hemp seeds:
   they sell to.
 
 Eggs:
-- Ask Le capitaine au marche Jean-Talon.
 - Price/origin checks in local epiceries.
 
 Maple syrup:
 - Call Eloi Beauregard (No Permis 3044) (450)797-2300 and ask if he
   has the maple trees or if he just transforms the sap into syrup.
 - Make a map comparing Eloi and Crepuscule.
+
+** 21 Dec 2015
+
+New idea: write down all information in .org files, organized into at
+least two sub-directories:
+- places: stores, factories, and farms.
+- products: things you can buy.
+
+Each places/*.org file may have a Buys From or Delivers To table 
 
 ** 11 Dec 2015
 

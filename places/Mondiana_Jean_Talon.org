@@ -1,0 +1,6 @@
+** Prices
+
+| date        | what       | bio | manufacturer     | quantity | unit |  CAD |
+|-------------+------------+-----+------------------+----------+------+------|
+| 14 Dec 2015 | [[../products/Hemp_seeds.org][Hemp seeds]] | yes | Aliments Trigone |     2.27 | kg   | 8.99 |
+
