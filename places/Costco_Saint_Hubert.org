@@ -1,5 +1,16 @@
+** News
+
 - 17 Nov 2015, tdhock: Costco Terra Delyssa Organic Extra Virgin Olive
   Oil, 12.99/2L (usually 14.99/2L).
 
-Address: 5025 Boulevard Cousineau, Saint-Hubert, QC J3Y 3K7
-Phone:(450) 443-3618
+** Data
+
+- Address :: 5025 Boulevard Cousineau, Saint-Hubert, QC J3Y 3K7
+- Phone :: (450) 443-3618
+
+** Public prices
+
+| product   |       date | bio     | manufacturer  | comes from  | quantity | unit | price |
+|-----------+------------+---------+---------------+-------------+----------+------+-------|
+| [[file:../products/Olive_oil.org][Olive oil]] | 2015-11-17 | [[file:../certifications/ECOCERT.org][ECOCERT]] | [[file:Terra_Delyssa.org][Terra Delyssa]] | [[file:CHO_America.org][CHO America]] |        2 | L    | 12.99 |
+

@@ -1,2 +1,10 @@
+** News
+
+- 2015-12-23 :: picked up my first delivery from [[file:Ferme_Le_Crepuscule.org][Ferme Le
+     Crepuscule]]. They stock frozen meats that you do not need to
+     special order.
+
+** Data
+
 - Address :: 1251, Beaubien Est, Montreal
 - Telephone ::  (514) 274-3629

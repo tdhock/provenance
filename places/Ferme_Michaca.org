@@ -1,3 +1,5 @@
+** News
+
 - 17 Nov 2015, tdhock: Elle ne sait pas de quel ferme les graines
   viennent. Elle fait affaires avec une grossiste, et elle ne peut pas
   me donner le nom/addresse.  Pourquoi? C'est "personnel" il faut
@@ -5,3 +7,10 @@
 - 16 Nov 2015, tdhock: Called Ferme Michaca (450) 264-4369 but nobody
   picked up. Their package says 7.55$/250g.
 
+** Public prices
+
+|       date | product    | organic | manufacturer | comes from | quantity | unit |  CAD |
+|------------+------------+---------+--------------+------------+----------+------+------|
+| 2015-11-08 | [[file:../products/Hemp_seeds.org][Hemp seeds]] | no      | ?            | ?          |      250 | g    | 7.55 |
+
+*** TODO where do Michaca hemp seeds come from?

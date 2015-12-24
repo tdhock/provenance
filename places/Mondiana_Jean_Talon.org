@@ -1,11 +1,13 @@
 ** News
 
-- 23 Dec 2015 :: these are the cheapest hemp seeds. is this price
+- 2015-12-24 :: re-checked prices. It was incorrect, missing the 6.
+- 2015-12-23 :: these are the cheapest hemp seeds. is this price
      real?
 
 ** Prices
 
-| date        | what       | bio | manufacturer     | quantity | unit |  CAD |
-|-------------+------------+-----+------------------+----------+------+------|
-| 14 Dec 2015 | [[../products/Hemp_seeds.org][Hemp seeds]] | yes | [[file:Aliments_Trigone.org][Aliments Trigone]] |     2.27 | kg   | 8.99 |
+| date        | what       | bio | manufacturer     | quantity | unit |   CAD |
+|-------------+------------+-----+------------------+----------+------+-------|
+| 14 Dec 2015 | [[../products/Hemp_seeds.org][Hemp seeds]] | yes | [[file:Aliments_Trigone.org][Aliments Trigone]] |     2.27 | kg   | 68.99 |
+
 

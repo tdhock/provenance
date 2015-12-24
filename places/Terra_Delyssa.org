@@ -1,0 +1,21 @@
+** News
+
+- 2015-12-24 :: on the label of [[file:Terra_Delyssa.org][Terra Delyssa]] [[file:../products/Olive_oil.org][Olive oil]] it is written
+     "Produced by/Produit par: CHO Company Sfax - Tunisie" A google
+     maps search gave coordinates 34.881944, 10.844192 as their
+     company office. On a [[https://www.facebook.com/note.php?note_id=10150141664575531][facebook page]] it is written that CHO means
+     "Conditionnement de s Huiles d'Olive" and "Il est à noter que CHO
+     détient des plantations d’oliviers organiques mais aussi
+     conventionnels. Elle table sur la présentation d’une huile
+     d’olive biologique, correspondant réellement aux besoins des
+     marchés de destination, où les consommateurs s’orientent de plus
+     en plus vers le biologique." which means that they also have
+     non-organic olive trees.
+
+** Data
+
+- Address :: CHO Company, Sfax, Tunisia.
+- latlon :: 34.881944, 10.844192
+
+** TODO where is their farm in Tunisia?
+

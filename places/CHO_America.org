@@ -1,0 +1,17 @@
+** News
+
+- 2015-12-24 :: on the label of [[file:Terra_Delyssa.org][Terra Delyssa]] [[file:../products/Olive_oil.org][Olive oil]] it is written
+     "Imported by/Importée par: CHO America Inc"
+
+** Data
+
+- Address :: 7544 Chemin De la Cote de Liesse, Saint-Laurent, QC,
+              H4T-1G1
+- latlon :: 45.478326, -73.699950
+
+** Buys from
+
+| products  | supplier      |
+|-----------+---------------|
+| [[file:../products/Olive_oil.org][Olive oil]] | [[file:Terra_Delyssa.org][Terra Delyssa]] |
+

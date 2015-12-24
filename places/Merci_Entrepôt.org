@@ -32,8 +32,12 @@ Nelly
 
 ** Public prices
 
-| product    | organic | manufacturer   | comes from | CAD | quantity | unit | date |
-|------------+---------+----------------+------------+-----+----------+------+------|
-| hemp seeds | yes     | Aliments Merci | X          |     |          |      |      |
+| product    | organic | manufacturer   | comes from | CAD | quantity | unit |       date |
+|------------+---------+----------------+------------+-----+----------+------+------------|
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Merci | X          | 295 |       25 | lb   | 2015-11-17 |
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Merci | X          | 177 |     12.5 | lb   | 2015-11-17 |
 
-X = Nellie's boss said that the company does not provide any supplier information.
+*** TODO find out who they buy from
+
+X = Nellie's boss said that the company does not provide any supplier
+information. We could call back and ask her boss.
