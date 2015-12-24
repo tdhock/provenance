@@ -1,0 +1,35 @@
+** News
+
+- 18 Nov 2015, tdhock: Crepuscule prices listed on their [[https://www.fermelecrepuscule.com/fr/produits-biologique/erable.html][web page]].
+  Interestingly, they explain what the egg sizes mean.
+
+** Public prices
+
+Prices here come from the web site, but in other circumstances they could come from
+- a phone call,
+- an in-store display.
+
+| product       | organic     | description |   CAD | quantity | unit |       date |
+|---------------+-------------+-------------+-------+----------+------+------------|
+| [[file:../products/Eggs.org][Eggs]]          | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | jumbo       |  7.49 |       12 | eggs | 2015-11-18 |
+| [[file:../products/Eggs.org][Eggs]]          | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | gros        |  6.99 |       12 | eggs | 2015-11-18 |
+| [[file:../products/Eggs.org][Eggs]]          | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | moyen       |  6.49 |       12 | eggs | 2015-11-18 |
+| [[file:../products/Eggs.org][Eggs]]          | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | petit       |  5.99 |       12 | eggs | 2015-11-18 |
+| [[file:../products/Maple_syrup.org][Maple syrup]]   | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | unknown     | 20.49 |        1 | L    | 2015-11-18 |
+| [[file:../products/Whole_chicken.org][Whole chicken]] | [[file:../certifications/Qu%C3%A9bec_Vrai.org][Québec Vrai]] | d'été       | 11.99 |        1 | kg   | 2015-11-23 |
+
+how to compare with prices offered at their boutique on the farm?
+
+** Distributes to
+
+https://www.fermelecrepuscule.com/fr/points-de-chute.html
+
+| Products | Destination                |
+|----------+----------------------------|
+| All      | Ste-Luce                   |
+| All      | Drummondville (St-Cyrille) |
+| All      | Lévisienne                 |
+| All      | [[file:Le_Tournesol.org][Le Tournesol]]               |
+
+
+

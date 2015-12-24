@@ -12,7 +12,7 @@ place.vec <- sapply(place.org.vec, function(place.org){
 })
 
 table.pattern <- paste0(
-  "\n[*]+ +",
+  "[*]+ +",
   "(?<section>.*?)",
   "\n",
   "(?:.*?\n)+?",
@@ -24,13 +24,23 @@ table.pattern <- paste0(
 )
 list.of.tables <- str_match_all_named(place.vec, table.pattern)
 
-sapply(list.of.tables, nrow)
-crepuscule <- list.of.tables[["places/Ferme_La_Crepuscule.org"]]
+description.pattern <- paste0(
+  "-",
+  " +",
+  "(?<name>.*?)",
+  " +:: +",
+  "(?<value>.*?)",
+  "\n")
+list.of.described <- str_match_all_named(place.vec, description.pattern)
+
 str2dt <- function(table.str){
   no.dividers <- gsub("[|]-.*?\n", "", table.str)
   full.dt <- fread(no.dividers, sep="|")
   full.dt[, -c(1, ncol(full.dt)), with=FALSE]
 }
+
+sapply(list.of.tables, nrow)
+crepuscule <- list.of.tables[["places/Ferme_La_Crepuscule.org"]]
 list.of.dt <- lapply(crepuscule[, "table"], str2dt)
 
 data.by.place <- list()
@@ -38,13 +48,15 @@ for(file.i in seq_along(place.vec)){
   base.org <- basename(place.org.vec[[file.i]])
   place.name <- gsub("_", " ", sub(".org$", "", base.org))
   table.mat <- list.of.tables[[file.i]]
-  L <- if(nrow(table.mat)){
-    L <- lapply(table.mat[, "table"], str2dt)
-    names(L) <- NULL
-    L
+  tables.list <- list()
+  if(nrow(table.mat))for(table.i in 1:nrow(table.mat)){
+    table.data <- table.mat[table.i,]
+    section <- table.data[["section"]]
+    tables.list[[section]] <- str2dt(table.data[["table"]])
   }
   data.by.place[[place.name]] <- list(
-    tables=L)
+    tables=tables.list,
+    values=list.of.described[[file.i]])
 }
 
 ## Or first convert to .json files and then parse using RJSONIO?

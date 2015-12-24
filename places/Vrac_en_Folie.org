@@ -1,6 +1,6 @@
 ** Prices
 
-|       date | product    | bio | quantity | unit |  CAD |
-|------------+------------+-----+----------+------+------|
-| 2015-12-20 | [[file:~/projects/provenance/products/Hemp_seeds.org][Hemp seeds]] | no  |      100 | g    | 3.50 |
+|       date | product    | bio | manufacturer | quantity | unit |  CAD |
+|------------+------------+-----+--------------+----------+------+------|
+| 2015-12-20 | [[file:../products/Hemp_seeds.org][Hemp seeds]] | no  | unknown      |      100 | g    | 3.50 |
 

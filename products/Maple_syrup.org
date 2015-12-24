@@ -1,0 +1,4 @@
+** Translations
+
+- en :: Maple syrup
+- fr :: Sirop d'érable

@@ -26,7 +26,7 @@ Nelly
 
 ** Data
 
-- Contact :: Nellie (514) 955-7295 ext 228
+- Contact :: Nellie (514) 955-7295 ext 228,
 - PlaceType :: manufacture
 - address :: 12020 boul. Albert-Hudon, Montréal, QC H1G-3K7, Canada
 

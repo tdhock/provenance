@@ -1,0 +1,12 @@
+** Not to be confused with
+
+Processed chicken parts should be on another page (wings, legs, etc).
+
+** OK to include
+
+Frozen and fresh.
+
+** Translations
+
+- en :: Whole chicken
+- fr :: Poulet entier
