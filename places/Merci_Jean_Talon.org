@@ -6,8 +6,8 @@
 
 ** Public prices
 
-| product    | organic | manufacturer     | comes from     | CAD | quantity | unit | date |
-|------------+---------+------------------+----------------+-----+----------+------+------|
-| hemp seeds | yes     | Aliments Merci   | Merci Entrepot |     |          |      |      |
-| hemp seeds | yes     | Aliments Trigone | Merci Entrepot |     |          |      |      |
+| product                         | organic | manufacturer     | comes from     | CAD | quantity | unit | date |
+|---------------------------------+---------+------------------+----------------+-----+----------+------+------|
+| [[file:../products/Hemp_seeds.org]] | yes     | Aliments Merci   | Merci Entrepot |     |          |      |      |
+| [[file:../products/Hemp_seeds.org][Hemp seeds]]                      | yes     | Aliments Trigone | Merci Entrepot |     |          |      |      |
 

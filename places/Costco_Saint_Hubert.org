@@ -10,7 +10,7 @@
 
 ** Public prices
 
-| product   |       date | bio     | manufacturer  | comes from  | quantity | unit | price |
+| product   |       date | bio     | manufacturer  | comes from  | quantity | unit |   CAD |
 |-----------+------------+---------+---------------+-------------+----------+------+-------|
 | [[file:../products/Olive_oil.org][Olive oil]] | 2015-11-17 | [[file:../certifications/ECOCERT.org][ECOCERT]] | [[file:Terra_Delyssa.org][Terra Delyssa]] | [[file:CHO_America.org][CHO America]] |        2 | L    | 12.99 |
 
