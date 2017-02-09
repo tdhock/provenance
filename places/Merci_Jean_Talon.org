@@ -6,8 +6,10 @@
 
 ** Public prices
 
-| product                         | organic | manufacturer     | comes from     | CAD | quantity | unit | date |
-|---------------------------------+---------+------------------+----------------+-----+----------+------+------|
-| [[file:../products/Hemp_seeds.org]] | yes     | Aliments Merci   | Merci Entrepot |     |          |      |      |
-| [[file:../products/Hemp_seeds.org][Hemp seeds]]                      | yes     | Aliments Trigone | Merci Entrepot |     |          |      |      |
+| product    | organic | manufacturer     | comes from     |   CAD | quantity | unit |       date |
+|------------+---------+------------------+----------------+-------+----------+------+------------|
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Merci   | Merci Entrepot |  4.83 |      142 | g    | 2015-11-18 |
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Merci   | Merci Entrepot |  9.30 |      282 | g    | 2015-11-18 |
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Trigone | Merci Entrepot | 16.49 |      142 | g    | 2015-11-18 |
+| [[file:../products/Hemp_seeds.org][Hemp seeds]] | yes     | Aliments Trigone | Merci Entrepot |  4.29 |      100 | g    | 2015-11-18 |
 

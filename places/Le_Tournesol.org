@@ -8,3 +8,10 @@
 
 - Address :: 1251, Beaubien Est, Montreal
 - Telephone ::  (514) 274-3629
+
+** Public prices
+
+| product    |       date | organic | manufacturer     |   CAD | quantity | unit |   |   |
+|------------+------------+---------+------------------+-------+----------+------+---+---|
+| [[file:../products/Hemp_seeds.org][hemp seeds]] | 2015-12-23 |         | Aliments Trigone |  4.19 |      100 | g    |   |   |
+| [[file:../products/Hemp_seeds.org][hemp seeds]] | 2015-12-23 |         | Aliments Trigone | 15.95 |      454 | g    |   |   |

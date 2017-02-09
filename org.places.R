@@ -34,6 +34,7 @@ for(file.i in 1:nrow(mtime.dt)){
   objs <- load(mtime.row$RData.file)
   if(length(data.by.section)){
     org.file <- paste(mtime.row$org.file)
+    place <- sub("[.]org$", "", basename(org.file))
     if(is.data.table(data.by.section$prices$table)){
       has.field <- price.fields %in% names(data.by.section$prices$table)
       field.vec <- price.fields[!has.field]
@@ -42,7 +43,7 @@ for(file.i in 1:nrow(mtime.dt)){
       }
       price.dt <- data.by.section$prices$table[, price.fields, with=FALSE]
       prices.list[[org.file]] <-
-        data.table(place=org.file, price.dt)
+        data.table(place, price.dt)
     }
     org.places[[org.file]] <- data.by.section
   }
@@ -51,7 +52,6 @@ table(unlist(sapply(org.places, names)))
 table(unlist(lapply(org.places, function(L)names(L$prices$table))))
 table(unlist(lapply(org.places, function(L)L$prices$table$product)))
 table(unlist(lapply(org.places, function(L)L$prices$table$product.file)))
-
 org.prices <- do.call(rbind, prices.list)
 
 save(org.places, org.prices, file="org.places.RData")

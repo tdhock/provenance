@@ -6,8 +6,8 @@
 
 ** Prices
 
-| date        | what       | bio | manufacturer     | quantity | unit |   CAD |
-|-------------+------------+-----+------------------+----------+------+-------|
-| 14 Dec 2015 | [[../products/Hemp_seeds.org][Hemp seeds]] | yes | [[file:Aliments_Trigone.org][Aliments Trigone]] |     2.27 | kg   | 68.99 |
+|       date | what       | bio | manufacturer     | quantity | unit |   CAD |
+|------------+------------+-----+------------------+----------+------+-------|
+| 2015-12-14 | [[../products/Hemp_seeds.org][Hemp seeds]] | yes | [[file:Aliments_Trigone.org][Aliments Trigone]] |     2.27 | kg   | 68.99 |
 
 

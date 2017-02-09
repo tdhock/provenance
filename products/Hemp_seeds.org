@@ -10,3 +10,6 @@ hemp seeds.
 - en :: Hemp seeds
 - fr :: Graines de chanvre
 
+** Data
+
+- unit :: kg

@@ -23,6 +23,12 @@ Maple syrup:
   has the maple trees or if he just transforms the sap into syrup.
 - Make a map comparing Eloi and Crepuscule.
 
+** 9 Feb 2017
+
+There is an organic milk producer who offers "traceability" on their
+web site, complete with photos of the producers and their families.
+https://www.laitnutrinor.com/resultats_de_tracabilite?type_lait=0&date_peremption=2017-02-16
+
 ** 21 Dec 2015
 
 New idea: write down all information in .org files, organized into at

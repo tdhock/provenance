@@ -2,6 +2,25 @@ works_with_R("3.2.2",
              data.table="1.9.6",
              "tdhock/namedCapture@05175927a45c301a18e8c6ebae67ea39a842d264")
 
+print.character <- function(x, ...){
+  row.vec <- rownames(x)
+  row.chars <- if(is.null(row.vec)){
+    0
+  }else{
+    max(nchar(row.vec))
+  }
+  max.chars <- getOption("width") - row.chars
+  is.big <- max.chars < nchar(x)
+  if(any(is.big)){
+    n <- max.chars - 10
+    cat("... = only printed first", n, "characters.\n")
+    first <- ifelse(is.big, paste0(substr(x, 1, n), "..."), x)
+    print.default(first, ...)
+  }else{
+    print.default(x, ...)
+  }
+}
+
 arg.vec <- "places/Ferme_Le_Crepuscule.org"
 arg.vec <- "places/Vrac_en_Folie.org"
 arg.vec <- commandArgs(trailingOnly=TRUE)
@@ -42,6 +61,7 @@ table.pattern <- paste0(
   ")")
 ##all.tables.by.section <- str_match_all_named(content.vec, table.pattern)
 first.table.mat <- str_match_named(content.vec, table.pattern)
+print(first.table.mat)
 
 description.pattern <- paste0(
   "-",
@@ -148,7 +168,7 @@ str2dt <- function(table.str){
     maybe.file.vec <- file.or.null(small.dt[[col.name]])
     if(is.character(maybe.file.vec)){
       new.name <- paste0(col.name, ".file")
-      small.dt[[new.name]] <- maybe.file.vec
+      small.dt[[new.name]] <- sub("[.]org$", "", basename(maybe.file.vec))
     }
   }
   small.dt
